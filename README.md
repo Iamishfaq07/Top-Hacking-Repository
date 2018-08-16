@@ -2,13 +2,12 @@
 List Of Top And Best Hacking Repository 
 
 
-| Creator |    Social                | Emai                    | Version |  |
-|---------|--------------------------|-------------------------|---------|--|
-| Ishfaq  | Instagram:@iamishfaq07   | Bhatishfaq966@gmail.com |         |  |
-|  Bhat   |  Facebook:iamishfaq07    |                         |  V1.0   |  |
-|         |   Other:iamishafq07      |                         |         |  |
-|_________|__________________________|_________________________|_________|__|   
-
+|   Creator   |         Social          |         Contact         | Version |
+|-------------|-------------------------|-------------------------|---------|
+| ISHAFQ BHAT | Instagram: @iamishfaq07 | Bhatishfaq966@gmail.com |     1.0 |
+|             | Facebook: iamishfaq07   |                         |         |
+|             | Other: iamishafq07      | Ghostishfaq@gmail.com   |         |
+|_____________|_________________________|_________________________|_________|
 
 <div class="left">
    <span class="main_header"><b></b></span><br/>
